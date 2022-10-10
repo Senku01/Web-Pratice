@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 25px;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    background: whitesmoke;
+    color: darkblue;  
+}
+
+p{
+    color: rgba(0,0,0,0.5);
+    width: 50%;
+    border:1px dashed red;
+    
+}
+h1{
+    border: 1px solid gray;
+}
+h3{
+    border: 2px solid black;
+    width: 50%;
+}
+
